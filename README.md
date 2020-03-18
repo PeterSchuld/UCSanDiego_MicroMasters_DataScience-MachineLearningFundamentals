@@ -1,5 +1,5 @@
 # UC San Diego MicroMasters Data Science Machine Learning Fundamentals
-DES 220 "Machine Learning Fundamentals" (Spring 2019) by Sanjoy Dasgupta, Professor of Computer Science and Engineering. Understand machine learning's role in data-driven modeling, prediction, and decision-making. Part 3 in the »Data Science« MicroMasters®, completed 01-Sep-2019
+DSE220x "Machine Learning Fundamentals" (Spring 2019) by Sanjoy Dasgupta, Professor of Computer Science and Engineering. Understand machine learning's role in data-driven modeling, prediction, and decision-making. Part 3 in the »Data Science« MicroMasters®, completed 01-Sep-2019
 
 About this course:
 
